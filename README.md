@@ -16,7 +16,7 @@
 
 ## 🧰 Tools & Languages
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/) [![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://go.dev/) [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org/) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org/) [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="36"></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="36"></a> <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="36"></a> <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="36"></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="36"></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="36"></a>
 
 ## 🗣️ Languages
 
@@ -53,7 +53,7 @@ Coming soon...
 
 ## 🧰 Інструменти та мови
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/) [![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://go.dev/) [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org/) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org/) [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="36"></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="36"></a> <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="36"></a> <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="36"></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="36"></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="36"></a>
 
 ## 🗣️ Мови
 
