@@ -16,6 +16,10 @@
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/) [![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://go.dev/) [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org/) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org/) [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 
+## 🗣️ Languages
+
+**[UA]** **Ukrainian** [![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square)] · **[GB]** **English** [![Beginner](https://img.shields.io/badge/-Beginner-orange?style=flat-square)] · **[CZ]** **Czech** [![Beginner](https://img.shields.io/badge/-Beginner-orange?style=flat-square)]
+
 ## 📬 Contact
 
 Coming soon...
@@ -46,6 +50,10 @@ Coming soon...
 ## 🧰 Інструменти та мови
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/) [![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://go.dev/) [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://kotlinlang.org/) [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.linux.org/) [![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/) [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+
+## 🗣️ Мови
+
+**[UA]** **Українська** [![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square)] · **[GB]** **Англійська** [![Beginner](https://img.shields.io/badge/-Beginner-orange?style=flat-square)] · **[CZ]** **Чеська** [![Beginner](https://img.shields.io/badge/-Beginner-orange?style=flat-square)]
 
 ## 📬 Контакти
 
