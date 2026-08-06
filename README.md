@@ -22,9 +22,11 @@
 
 🇺🇦 **Ukrainian** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="15"> · 🇬🇧 **English** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15"> · 🇨🇿 **Czech** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15">
 
+<!--
 ## 📬 Contact
 
 Coming soon...
+-->
 
 ## 📊 GitHub Stats
 
@@ -59,9 +61,11 @@ Coming soon...
 
 🇺🇦 **Українська** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="15"> · 🇬🇧 **Англійська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15"> · 🇨🇿 **Чеська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15">
 
+<!--
 ## 📬 Контакти
 
 Незабаром...
+-->
 
 ## 📊 GitHub Статистика
 
