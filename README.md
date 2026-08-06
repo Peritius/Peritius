@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Peritius
 
-**FOSS enthusiast on Linux. Building small tools for fun.**
+**Linux fan. Exploring the vast world of programming.**
 
 - 🐧 Linux user, open source and free software fan
 - 🌱 Exploring Go, Kotlin, and Python
 - 🛠️ Making small utilities and widgets for daily life
 - 🧩 Contributing to open source wherever I can
 
-## 🔭 What I'm working on
+## 📦 My Projects
 
 - [retgdis](https://github.com/Peritius/retgdis) — restart Telegram and Discord clients on Windows and Linux
 - [Nimbus](https://github.com/Peritius/Nimbus) — multi-platform weather widget
@@ -34,14 +34,14 @@ Coming soon...
 
 # Привіт 👋, я Peritius
 
-**FOSS-ентузіаст на Linux. Роблю маленькі інструменти для задоволення.**
+**Фанат Linux. Досліджую величезний світ програмування.**
 
 - 🐧 Користуюся Linux, люблю open source та вільне ПЗ
 - 🌱 Вивчаю Go, Kotlin та Python
 - 🛠️ Роблю маленькі утиліти та віджети для повсякдення
 - 🧩 Долучаюся до open source, де виходить
 
-## 🔭 Над чим працюю
+## 📦 Мої проєкти
 
 - [retgdis](https://github.com/Peritius/retgdis) — перезапуск клієнтів Telegram і Discord на Windows та Linux
 - [Nimbus](https://github.com/Peritius/Nimbus) — мультиплатформовий віджет погоди
