@@ -12,7 +12,7 @@
 - [Nimbus](https://github.com/Peritius/Nimbus) — multi-platform weather widget
 - [nimbus-android](https://github.com/Peritius/nimbus-android) — weather widget for Android
 
-*Note on my code: These apps are shared "as is" without any warranties. The main goal of my pet projects is to learn by doing, and as a bonus — build things for my own convenience or enjoyment. The code might be messy, unoptimized, or completely ignore design patterns. It's built to work and solve specific problems, so please don't expect enterprise-level architecture. If you'd like to help — you can always do it via PR (where they're open to everyone).*
+<small><i>Note on my code: These apps are shared "as is" without any warranties. The main goal of my pet projects is to learn by doing, and as a bonus — build things for my own convenience or enjoyment. The code might be messy, unoptimized, or completely ignore design patterns. It's built to work and solve specific problems, so please don't expect enterprise-level architecture. If you'd like to help — you can always do it via PR (where they're open to everyone).</i></small>
 
 ## 🧰 Tools & Languages
 
@@ -49,7 +49,7 @@ Coming soon...
 - [Nimbus](https://github.com/Peritius/Nimbus) — мультиплатформовий віджет погоди
 - [nimbus-android](https://github.com/Peritius/nimbus-android) — віджет погоди для Android
 
-*Зауваження щодо коду: ці застосунки поширюються «як є», без жодних гарантій. Головна мета моїх pet-проєктів — просто вчитися на практиці, а заодно — робити речі для власної зручності чи задоволення. Код може бути неохайним, неоптимальним або зовсім ігнорувати патерни проєктування. Він створений, щоб працювати і вирішувати конкретні задачі, тож не чекайте архітектури рівня enterprise. Якщо хочете допомогти — ви завжди це можете зробити через PR (якщо у відповідному репозиторію PR відкриті для всіх).*
+<small><i>Зауваження щодо коду: ці застосунки поширюються «як є», без жодних гарантій. Головна мета моїх pet-проєктів — просто вчитися на практиці, а заодно — робити речі для власної зручності чи задоволення. Код може бути неохайним, неоптимальним або зовсім ігнорувати патерни проєктування. Він створений, щоб працювати і вирішувати конкретні задачі, тож не чекайте архітектури рівня enterprise. Якщо хочете допомогти — ви завжди це можете зробити через PR (якщо у відповідному репозиторію PR відкриті для всіх).</i></small>
 
 ## 🧰 Інструменти та мови
 
