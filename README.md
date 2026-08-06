@@ -19,9 +19,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Peritius&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Peritius)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Peritius&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPeritius&query=%24.followers&label=Followers&color=6a737d&style=flat-square&logo=github)](https://github.com/Peritius?tab=followers) [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPeritius&query=%24.public_repos&label=Repos&color=6a737d&style=flat-square&logo=github)](https://github.com/Peritius?tab=repositories) [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPeritius&query=%24.following&label=Following&color=6a737d&style=flat-square&logo=github)](https://github.com/Peritius?tab=following)
 
 ## 📬 Contact
 
@@ -53,9 +51,7 @@ Coming soon...
 
 ## 📊 GitHub Статистика
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Peritius&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Peritius)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Peritius&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPeritius&query=%24.followers&label=Followers&color=6a737d&style=flat-square&logo=github)](https://github.com/Peritius?tab=followers) [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPeritius&query=%24.public_repos&label=Repos&color=6a737d&style=flat-square&logo=github)](https://github.com/Peritius?tab=repositories) [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPeritius&query=%24.following&label=Following&color=6a737d&style=flat-square&logo=github)](https://github.com/Peritius?tab=following)
 
 ## 📬 Контакти
 
