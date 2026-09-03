@@ -22,7 +22,7 @@
 
 ## 🗣️ Languages
 
-🇺🇦 **Ukrainian** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="16"> · 🇬🇧 **English** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16"> · 🇨🇿 **Czech** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16">
+🇺🇦 **Ukrainian** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="11"> · 🇬🇧 **English** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="11"> · 🇨🇿 **Czech** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="11">
 
 <!--
 ## 📬 Contact
@@ -63,7 +63,7 @@ Coming soon...
 
 ## 🗣️ Мови
 
-🇺🇦 **Українська** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="16"> · 🇬🇧 **Англійська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16"> · 🇨🇿 **Чеська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16">
+🇺🇦 **Українська** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="11"> · 🇬🇧 **Англійська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="11"> · 🇨🇿 **Чеська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="11">
 
 <!--
 ## 📬 Контакти
