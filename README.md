@@ -1,4 +1,4 @@
-﻿# Hi there 👋, I'm Peritius
+# Hi there 👋, I'm Peritius
 
 **Linux fan. Exploring the vast world of programming.**
 
@@ -22,7 +22,7 @@
 
 ## 🗣️ Languages
 
-🇺🇦 **Ukrainian** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="15"> · 🇬🇧 **English** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15"> · 🇨🇿 **Czech** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15">
+🇺🇦 **Ukrainian** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="16"> · 🇬🇧 **English** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16"> · 🇨🇿 **Czech** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16">
 
 <!--
 ## 📬 Contact
@@ -63,7 +63,7 @@ Coming soon...
 
 ## 🗣️ Мови
 
-🇺🇦 **Українська** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="15"> · 🇬🇧 **Англійська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15"> · 🇨🇿 **Чеська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="15">
+🇺🇦 **Українська** <img src="https://img.shields.io/badge/-Native-brightgreen?style=flat-square" height="16"> · 🇬🇧 **Англійська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16"> · 🇨🇿 **Чеська** <img src="https://img.shields.io/badge/-Beginner-orange?style=flat-square" height="16">
 
 <!--
 ## 📬 Контакти
