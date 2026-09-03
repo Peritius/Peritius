@@ -18,7 +18,7 @@
 
 ## 🧰 Tools & Languages
 
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="36"></a> <a href="https://www.opensuse.org/"><img src="https://cdn.simpleicons.org/opensuse" height="36"></a> <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="36"></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="36"></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="36"></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="36"></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="36"></a> <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="36"></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="36"></a> <a href="https://getfedora.org/"><img src="https://cdn.simpleicons.org/fedora" height="36"></a> <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="36"></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="36"></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="36"></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="36"></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="36"></a> <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="36"></a>
 
 ## 🗣️ Languages
 
@@ -59,7 +59,7 @@ Coming soon...
 
 ## 🧰 Інструменти та мови
 
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="36"></a> <a href="https://www.opensuse.org/"><img src="https://cdn.simpleicons.org/opensuse" height="36"></a> <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="36"></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="36"></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="36"></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="36"></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="36"></a> <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="36"></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="36"></a> <a href="https://getfedora.org/"><img src="https://cdn.simpleicons.org/fedora" height="36"></a> <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch&theme=dark" height="36"></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="36"></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="36"></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="36"></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="36"></a> <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="36"></a>
 
 ## 🗣️ Мови
 
