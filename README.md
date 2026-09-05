@@ -22,7 +22,7 @@
 
 ## 🗣️ Languages
 
-🇺🇦 <img src="https://img.shields.io/badge/Ukrainian-Native-brightgreen?style=flat-square&labelColor=black" height="16"> · 🇬🇧 <img src="https://img.shields.io/badge/English-Beginner-orange?style=flat-square&labelColor=black" height="16"> · 🇨🇿 <img src="https://img.shields.io/badge/Czech-Beginner-orange?style=flat-square&labelColor=black" height="16">
+<img src="https://flagcdn.com/w40/ua.png" height="16"> <img src="https://img.shields.io/badge/Ukrainian-Native-brightgreen?style=flat-square&labelColor=black" height="16"> · <img src="https://flagcdn.com/w40/gb.png" height="16"> <img src="https://img.shields.io/badge/English-Beginner-orange?style=flat-square&labelColor=black" height="16"> · <img src="https://flagcdn.com/w40/cz.png" height="16"> <img src="https://img.shields.io/badge/Czech-Beginner-orange?style=flat-square&labelColor=black" height="16">
 
 <!--
 ## 📬 Contact
@@ -63,7 +63,7 @@ Coming soon...
 
 ## 🗣️ Мови
 
-🇺🇦 <img src="https://img.shields.io/badge/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-Native-brightgreen?style=flat-square&labelColor=black" height="16"> · 🇬🇧 <img src="https://img.shields.io/badge/%D0%90%D0%BD%D0%B3%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0-Beginner-orange?style=flat-square&labelColor=black" height="16"> · 🇨🇿 <img src="https://img.shields.io/badge/%D0%A7%D0%B5%D1%81%D1%8C%D0%BA%D0%B0-Beginner-orange?style=flat-square&labelColor=black" height="16">
+<img src="https://flagcdn.com/w40/ua.png" height="16"> <img src="https://img.shields.io/badge/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-Native-brightgreen?style=flat-square&labelColor=black" height="16"> · <img src="https://flagcdn.com/w40/gb.png" height="16"> <img src="https://img.shields.io/badge/%D0%90%D0%BD%D0%B3%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0-Beginner-orange?style=flat-square&labelColor=black" height="16"> · <img src="https://flagcdn.com/w40/cz.png" height="16"> <img src="https://img.shields.io/badge/%D0%A7%D0%B5%D1%81%D1%8C%D0%BA%D0%B0-Beginner-orange?style=flat-square&labelColor=black" height="16">
 
 <!--
 ## 📬 Контакти
